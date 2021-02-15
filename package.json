@@ -1,5 +1,5 @@
 {
-  "name": "bb-scroll",
+  "name": "bbscroll",
   "version": "1.0.1",
   "description": "A html focused scrollspy animation library built with gsap by Studio Blueboat",
   "scripts": {},

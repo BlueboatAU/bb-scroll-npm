@@ -1,7 +1,6 @@
 *
 !.gitignore
-!src/
-!src/*
+!bbscroll.js
 !package.json
 !package-lock.json
 !README.md
