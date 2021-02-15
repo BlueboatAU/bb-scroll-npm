@@ -1,6 +1,11 @@
 # BB Scroll
 A html focused scrollspy animation library built with gsap by Studio Blueboat
 
+## Importing
+Import as follows:
+
+import {bbScroll} from 'bbscroll/bbscroll';
+
 ## Usage
 Add the 'bb-scroll-section' attribute to any parent HTML element to define the timeline
 
