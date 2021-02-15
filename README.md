@@ -1,11 +1,11 @@
-# BB Scroll
+# Bb Scroll
 A html focused scrollspy animation library built with gsap by Studio Blueboat
 
 ## Importing
 Import as follows:
 
 ```
-import {bbScroll} from 'bbscroll';
+import {bbScroll} from 'bbscroll'
 ```
 
 ## Usage
