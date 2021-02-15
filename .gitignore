@@ -1,6 +1,6 @@
 *
 !.gitignore
-!bbscroll.js
+!index.js
 !package.json
 !package-lock.json
 !README.md
