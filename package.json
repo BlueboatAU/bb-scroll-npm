@@ -1,0 +1,12 @@
+{
+  "name": "bb-scroll",
+  "version": "1.0.0",
+  "description": "A html focused scrollspy animation library built with gsap by Studio Blueboat",
+  "scripts": {},
+  "author": "",
+  "license": "UNLICENSED",
+  "repository": {},
+  "dependencies": {
+    "gsap": "^3.6.0"
+  }
+}
